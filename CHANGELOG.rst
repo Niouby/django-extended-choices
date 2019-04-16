@@ -1,6 +1,12 @@
 Changelog
 =========
 
+Release *v1.3.3* - ``unreleased``
+---------------------------------
+* run tests for Django 2.0 and Python 3.7
+* run tests for Django 2.2 and Python 3.5, 3.6 and 3.7
+* run tests for Django master and Python 3.6 and 3.7
+
 Release *v1.3.2* - ``2019-02-25``
 ---------------------------------
 * replace ``future`` dependency by ``six``
